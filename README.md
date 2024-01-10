@@ -1,1 +1,3 @@
 # Cardiovascular-Disease-Dataset-Analysis-
+
+This project involved a comprehensive exploratory data analysis (EDA) of a dataset containing 70,000 patient records, focusing on uncovering crucial trends, patterns, and relationships among various variables. The study utilized advanced data analytics techniques such as logistic regression, k-nearest neighbors (KNN), and random forest to delve deeper into the dataset's correlations. The primary objective was to develop accurate predictive models capable of identifying the presence of cardiovascular disease (CVD) in patients, leveraging the insights gained from the EDA and the applied analytical methods. This approach aimed to enhance diagnostic accuracy and facilitate early intervention for CVD.
